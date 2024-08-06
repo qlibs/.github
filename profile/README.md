@@ -1,4 +1,4 @@
-## Qlibs++ - Modern C++ libraries - https://qlibs.github.io
+## Qlibs++ - Modern C++ libraries
 
 > ### Mission
 
