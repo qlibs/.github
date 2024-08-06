@@ -1,4 +1,4 @@
-## Qlibs++ - Modern C++ libraries (MIT License - https://opensource.org/license/mit)
+## Qlibs++ - Modern C++ libraries
 
 > ### Mission
 
@@ -20,7 +20,9 @@
   - Minimal dependencies (none or STL*)
   - Minimal API (available on https://compiler-explorer.com)
 
-> * Selected libraries
+\* Selected libraries
+
+> MIT License - https://opensource.org/license/mit
 
 ---
 
@@ -65,7 +67,3 @@
 
     > Both: Boost and Poco libraries are established and powerful C++ libraries.
       Qlibs libraries have different, more narrowed, focus and goals.
-
-- Why Qlibs?
-
-    > Q stands for Quick(Fast), Quality, libs stands for libraries.
