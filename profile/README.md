@@ -36,7 +36,7 @@
 
 - Can Qlibs libraries be used in comercial projects?
 
-    > Yes, license permits comerical usage - see License for details.
+    > Yes, [license](https://opensource.org/license/mit) permits comerical usage.
 
 - Is the aim for Qlibs libraries to be standarized?
 
