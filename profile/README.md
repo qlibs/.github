@@ -38,6 +38,18 @@
 
     > Yes, [license](https://opensource.org/license/mit) permits comerical usage.
 
+- How to report bugs/issues?
+
+    > Github issues are prefered way for bugs/issues reporting.
+
+- How to contribute?
+
+    > Contriubutions are always welcome - see https://docs.github.com/en/pull-requests for details.
+
+- How to add/request a new feature/library?
+
+    > Github discussions - https://github.com/orgs/qlibs/discussions - sre prefered way to discuss/add/request new features/libraries.
+
 - Is the aim for Qlibs libraries to be standardized?
 
     > The main goal for the libraries is to solve specific problem in the best possible way.
@@ -46,26 +58,3 @@
 - Are Qlibs libraries ABI stable?
 
     > Libraries are header only and versioned with inlined namespaces but the ABI stability is not guranteed.
-
-- How to report bugs/issues?
-
-    > Github issues are prefered way for bugs/issues reporting.
-
-- How to contribute?
-
-    > Contriubutions are always welcome -
-      see https://docs.github.com/en/pull-requests for details.
-
-      Note: `main` branch is the stable branch.
-
-- How to add/request a new feature/library?
-
-    > Github discussions - https://github.com/orgs/qlibs/discussions -
-      sre prefered way to discuss/add/request new features/libraries.
-
-      Note: Mission goals are required to be fulfiled for new libraries.
-
-- How Qlibs libraries differ from [Boost](https://github.com/boostorg), [Poco](https://pocoproject.org/), ...?
-
-    > Both: Boost and Poco libraries are established and powerful C++ libraries.
-      Qlibs libraries have different, more narrowed, focus and goals.
