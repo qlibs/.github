@@ -1,23 +1,25 @@
-## Qlibs++ - Modern C++ libraries
+## [Qlibs++ - Modern C++ libraries](https://qlibs.github.io)
 
 > ### Mission
 
 - #### Quality
-  - C++20+ (gcc, clang, msvc*)
-  - Compile-time self testing (can be disabled with -DNTEST)
+
+  - C++20+ ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
+  - Compile-time self testing (can be disabled with `-DNTEST`)
   - Compiles cleanly with `-Wall -Wextra -pedantic -fsantize=memory/undefined | /WX /W4`
-  - Focused on composability and declarative interfaces (easy to use hard to misuse)
+  - Focused on composability and declarativeness (easy to use hard to misuse)
 
 - #### Performance
+
   - Compile-time driven optimizations
-  - x86-64* driven optimizations and benchmarks
-  - No virtual, No RTTI, No exceptions
-  - Focused on fast compilation times
+  - x86-64\* driven optimizations and benchmarks (No `virtual`, No `RTTI`)
+  - Optimized compilation times
 
 - #### Simplicity
-  - Single header/module (including documentation and tests)
-  - Single purpose (unix philosophy)
-  - Minimal dependencies (none or STL*)
+
+  - Single header/module (including `documentation` and `tests`)
+  - Single purpose ([unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy))
+  - Minimal dependencies (none or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
   - Minimal API (available on https://compiler-explorer.com)
 
 \* Selected libraries
