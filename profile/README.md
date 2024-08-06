@@ -1,31 +1,28 @@
-## Qlibs++ - Modern C++ libraries
+## Qlibs++ - Modern C++ libraries (MIT License - https://opensource.org/license/mit)
 
-> Mission
+> ### Mission
 
-- Quality
+- #### Quality
   - C++20+ (gcc, clang, msvc*)
   - Compile-time self testing (can be disabled with -DNTEST)
   - Compiles cleanly with `-Wall -Wextra -pedantic -fsantize=memory/undefined | /WX /W4`
   - Focused on composability and declarative interfaces (easy to use hard to misuse)
 
-- Performance
+- #### Performance
   - Compile-time driven optimizations
   - x86-64* driven optimizations and benchmarks
   - No virtual, No RTTI, No exceptions
   - Focused on fast compilation times
 
-- Simplicity
+- #### Simplicity
   - Single header/module (including documentation and tests)
   - Single purpose (unix philosophy)
   - Minimal dependencies (none or STL*)
   - Minimal API (available on https://compiler-explorer.com)
 
-* Selected libraries
+> * Selected libraries
 
 ---
-
-> MIT License - https://opensource.org/license/mit
-
 
 ### FAQ
 
