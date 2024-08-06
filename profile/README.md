@@ -65,7 +65,7 @@
 
       Note: Mission goals are required to be fulfiled for new libraries.
 
-- How Qlibs libraries differ from Boost/Poco/... libraries?
+- How Qlibs libraries differ from [Boost](https://github.com/boostorg), [Poco](https://pocoproject.org/), ...?
 
     > Both: Boost and Poco libraries are established and powerful C++ libraries.
       Qlibs libraries have different, more narrowed, focus and goals.
