@@ -12,7 +12,7 @@
 - #### Performance
 
   - Compile-time driven optimizations
-  - x86-64\* driven optimizations and benchmarks (No `virtual`, No `RTTI`)
+  - Arch\* driven optimizations and benchmarks (No `virtual`, No `RTTI`)
   - Optimized compilation times
 
 - #### Simplicity
