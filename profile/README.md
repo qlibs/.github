@@ -34,22 +34,22 @@
 
     > Yes, free forever.
 
-- Can Qlibs libraries be used in comercial projects?
+- Can Qlibs libraries be used in commercial projects?
 
     > Yes, [license](https://opensource.org/license/mit) permits comerical usage.
 
-- Is the aim for Qlibs libraries to be standarized?
+- Is the aim for Qlibs libraries to be standardized?
 
     > The main goal for the libraries is to solve specific problem in the best possible way.
       Standarization, in some cases, may or may not follow but it's not the goal.
 
 - Are Qlibs libraries ABI stable?
 
-    > ABI stability is not the main priority for the libraries - see Mission.
+    > Libraries are header only and versioned with inlined namespaces but the ABI stability is not guranteed.
 
 - How to report bugs/issues?
 
-    > Github issues are prefered way for reporting bugs/issues.
+    > Github issues are prefered way for bugs/issues reporting.
 
 - How to contribute?
 
