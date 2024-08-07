@@ -40,7 +40,7 @@
 
 - How to report bugs/issues?
 
-    > Github issues are prefered way for bugs/issues reporting.
+    > Github issues is prefered way to report bugs/issues.
 
 - How to contribute?
 
@@ -48,13 +48,4 @@
 
 - How to add/request a new feature/library?
 
-    > Github discussions - https://github.com/orgs/qlibs/discussions - sre prefered way to discuss/add/request new features/libraries.
-
-- Is the aim for Qlibs libraries to be standardized?
-
-    > The main goal for the libraries is to solve specific problem in the best possible way.
-      Standarization, in some cases, may or may not follow but it's not the goal.
-
-- Are Qlibs libraries ABI stable?
-
-    > Libraries are header only and versioned with inlined namespaces but the ABI stability is not guranteed.
+    > Github discussions - https://github.com/orgs/qlibs/discussions - is prefered way to discuss/add/request new features/libraries.
