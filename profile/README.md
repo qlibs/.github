@@ -6,7 +6,7 @@
 
   - C++20+ ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
   - Compile-time self testing upon include/import (can be disabled with `-DNTEST`)
-    - Compiles cleanly with `-Wall -Wextra -pedantic -fsantize=memory/undefined/thread | /WX /W4`
+    - Compiles cleanly with `-Wall -Wextra -pedantic -fsantize=memory/undefined/thread`
   - Focused on composability and declarativeness (`Easy to use hard to misuse`)
 
 - #### Performance
