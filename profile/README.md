@@ -16,7 +16,7 @@
 
 - #### Simplicity
 
-  - Single header/module (`easy intergration`)
+  - Single header/module (`Easy intergration`)
   - Single purpose ([unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy))
   - Minimal dependencies (none or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
   - Minimal API (available on https://compiler-explorer.com)
