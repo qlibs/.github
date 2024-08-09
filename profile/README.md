@@ -22,6 +22,8 @@
   - Minimal dependencies (none or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
   - Minimal API (available on https://compiler-explorer.com)
 
+---
+
 ##### \* Selected libraries
 
 <p align="right">
