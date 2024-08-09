@@ -26,4 +26,6 @@
 
 ---
 
-> #### License [MIT](https://opensource.org/license/mit)
+<p align="right">
+<a href="https://opensource.org/license/mit">MIT License</a>
+</p>
