@@ -30,14 +30,6 @@
 
 ### FAQ
 
-- Are Qlibs libraries free to use?
-
-    > Yes, free forever.
-
-- Can Qlibs libraries be used in commercial projects?
-
-    > Yes, [license](https://opensource.org/license/mit) permits comerical usage.
-
 - How to report bugs/issues?
 
     > Github issues is prefered way to report bugs/issues.
