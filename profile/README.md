@@ -25,7 +25,6 @@
 ---
 
 ##### \* Selected libraries
-
 <p align="right">
 <a href="https://opensource.org/license/mit">MIT License</a>
 </p>
