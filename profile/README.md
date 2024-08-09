@@ -5,14 +5,14 @@
 - #### Quality
 
   - C++20+ ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
-  - Compile-time self testing (can be disabled with `-DNTEST`)
+  - Compile-time self testing upon include/import (can be disabled with `-DNTEST`)
   - Compiles cleanly with `-Wall -Wextra -pedantic -fsantize=memory/undefined | /WX /W4`
-  - Focused on composability and declarativeness (easy to use hard to misuse)
+  - Focused on composability and declarativeness (`easy to use hard to misuse`)
 
 - #### Performance
 
   - Compile-time driven optimizations
-  - Arch\* driven optimizations and benchmarks (No `virtual`, No `RTTI`)
+  - Arch\* driven optimizations and benchmarks (no `RTTI`)
   - Optimized compilation times
 
 - #### Simplicity
