@@ -11,7 +11,7 @@
 - #### Performance
 
   - Compile-time driven optimizations (`Don't pay for what you don't use`)
-  - Arch\* driven optimizations and benchmarks (No [RTTI](https://en.wikipedia.org/wiki/Run-time_type_information))
+  - `Arch`\* driven optimizations and benchmarks (No [RTTI](https://en.wikipedia.org/wiki/Run-time_type_information))
   - Optimized compilation times ([Benchmarks](https://qlibs.github.io/mp/))
 
 - #### Simplicity
