@@ -1,11 +1,11 @@
-## Qlibs++ - Modern C++ libraries
+## Qlibs++ - C++ libraries
 
 > ### Mission
 
 - #### Quality
 
-  - C++20+ ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
   - Compile-time self testing upon include/import (Can be disabled with `-DNTEST`)
+    - [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
   - Focused on composability and declarativeness (`Easy to use hard to misuse`)
 
 - #### Performance
