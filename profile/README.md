@@ -17,7 +17,7 @@
 - #### Simplicity
 
   - Single header/module ([Easy intergration](https://github.com/qlibs/qlibs#faq))
-  - Single purpose ([Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy))
+  - Modular ([Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy))
   - Minimal dependencies (None or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
   - Minimal API (Available on https://compiler-explorer.com)
 
