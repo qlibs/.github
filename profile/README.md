@@ -4,15 +4,14 @@
 
 - #### Quality
 
-  - Compile-time self testing 
-    - [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
+  - Self testing at compile-time
   - Focused on composability and declarativeness
-  - Daily [Releases](https://github.com/qlibs/qlibs/releases)
+  - Daily [releases](https://github.com/qlibs/qlibs/releases)
+    - [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
 
 - #### Performance
 
-  - Compile-time driven optimizations
-  - `Arch` driven optimizations\*
+  - Compile-time and `arch` driven optimizations\*
   - Optimized for [fast compilation times](https://qlibs.github.io/mp/)
 
 - #### Simplicity
