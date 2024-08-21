@@ -13,12 +13,12 @@
 
   - Compile-time driven optimizations (`Don't pay for what you don't use`)
   - `Arch` driven optimizations\*
-  - Optimized for fast compilation times ([Benchmarks](https://qlibs.github.io/mp/))
+  - Optimized for [fast compilation times](https://qlibs.github.io/mp/)
 
 - #### Simplicity
 
-  - Single header/module ([Intergration](https://github.com/qlibs/qlibs#faq))
-  - Minimal API and dependencies (None or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
+  - Single [header/module](https://github.com/qlibs/qlibs#faq))
+  - Minimal API and dependencies
   - Available on https://compiler-explorer.com
 
 ---
