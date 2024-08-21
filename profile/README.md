@@ -12,15 +12,15 @@
 - #### Performance
 
   - Compile-time driven optimizations (`Don't pay for what you don't use`)
-  - `CPU` driven optimizations\*
-  - Optimized for fadt compilation times ([Benchmarks](https://qlibs.github.io/mp/))
+  - `Arch` driven optimizations\*
+  - Optimized for fast compilation times ([Benchmarks](https://qlibs.github.io/mp/))
 
 - #### Simplicity
 
   - Single header/module ([Easy intergration](https://github.com/qlibs/qlibs#faq))
   - Modular ([Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy))
-  - Minimal dependencies (None or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
-  - Minimal API (Powered by https://compiler-explorer.com)
+  - Minimal API and dependencies (None or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
+  - Available on https://compiler-explorer.com
 
 ---
 
