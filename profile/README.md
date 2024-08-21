@@ -11,7 +11,7 @@
 - #### Performance
 
   - Compile-time and `arch` driven optimizations\*
-  - Optimized [compilation- times](https://qlibs.github.io/mp/)
+  - Optimized [compilation-times](https://qlibs.github.io/mp/)
 
 - #### Simplicity
 
