@@ -16,7 +16,7 @@
 - #### Simplicity
 
   - Single [header/module](https://github.com/qlibs/qlibs#faq)
-  - Minimal API and dependencies
+  - Minimal API, dependencies
   - Available on https://compiler-explorer.com
 
 ---
