@@ -4,7 +4,7 @@
 
 - #### Quality
 
-  - Self testing at compile-time
+  - Compile-time driven self-testing
   - Focused on composability and declarativeness
   - Daily [releases](https://github.com/qlibs/qlibs/releases) ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
 
