@@ -4,19 +4,19 @@
 
 - #### Quality
 
-  - Compile-time driven self-testing
-  - Focused on composability and declarativeness
+  - `Compile-time` driven self-testing
+  - Focused on `composability` and `declarativeness`
   - Daily [releases](https://github.com/qlibs/qlibs/releases) ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
 
 - #### Performance
 
-  - Compile-time and `arch` driven optimizations\*
+  - `Compile-time` and `arch` driven optimizations\*
   - Optimized [compilation-times](https://qlibs.github.io/mp/)
 
 - #### Simplicity
 
   - Single [header/module](https://github.com/qlibs/qlibs#faq)
-  - Minimal API, dependencies
+  - Minimal `API`, `dependencies`
   - Available on https://compiler-explorer.com
 
 ---
