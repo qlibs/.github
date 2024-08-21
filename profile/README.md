@@ -4,7 +4,7 @@
 
 - #### Quality
 
-  - Compile-time self testing upon include/import (Can be disabled with `-DNTEST`)
+  - Compile-time self testing (Disabled by `-DNTEST`)
     - [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
   - Focused on composability and declarativeness (`Easy to use hard to misuse`)
   - Daily [Releases](https://github.com/qlibs/qlibs/releases)
@@ -17,8 +17,7 @@
 
 - #### Simplicity
 
-  - Single header/module ([Easy intergration](https://github.com/qlibs/qlibs#faq))
-  - Modular ([Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy))
+  - Single header/module ([Intergration](https://github.com/qlibs/qlibs#faq))
   - Minimal API and dependencies (None or [STL](https://en.wikipedia.org/wiki/Standard_Template_Library)*)
   - Available on https://compiler-explorer.com
 
