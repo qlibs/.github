@@ -6,8 +6,7 @@
 
   - Self testing at compile-time
   - Focused on composability and declarativeness
-  - Daily [releases](https://github.com/qlibs/qlibs/releases)
-    - [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
+  - Daily [releases](https://github.com/qlibs/qlibs/releases) ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
 
 - #### Performance
 
