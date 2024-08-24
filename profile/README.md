@@ -10,7 +10,7 @@
 
 - #### Performance
 
-  - `Compile-time` and `arch` driven optimizations\*
+  - `Compile-time` and `arch`\* driven optimizations
   - Optimized [compilation-times](https://qlibs.github.io/mp/)
 
 - #### Simplicity
