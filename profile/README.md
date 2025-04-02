@@ -5,7 +5,7 @@
 - #### Correctness
 
   - Focuses on `composability`, `declarativeness` and `ease of testing`
-  - Includes `Compile-time` self-testing upon `include/import`*
+  - Incorporates `compile-time` self-testing upon `include/import`*
 
 - #### Performance
 
@@ -15,7 +15,7 @@
 - #### Simplicity
 
   - Aims for [minimal](https://en.wikipedia.org/wiki/Unix_philosophy) `API`, `dependencies` and `ease of integration`
-  - Available on https://compiler-explorer.com
+  - Supports https://compiler-explorer.com
 
 > Daily [releases](https://github.com/qlibs/qlibs/releases) ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
 
