@@ -5,7 +5,7 @@
 - #### Correctness
 
   - Focuses on `composability`, `declarativeness` and `ease of testing`
-  - Incorporates `compile-time` self-testing upon `include/import`*
+  - Incorporates `compile-time` self-testing upon `include/import`
 
 - #### Performance
 
