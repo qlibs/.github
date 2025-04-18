@@ -5,19 +5,19 @@
 - #### Correctness
 
   - Focuses on `composability`, `declarativeness` and `ease of testing`
-  - Incorporates `compile-time` self-testing upon `include/import`
+  - Incorporates `compile-time` self-testing upon `include/import` (<i>can be disabled via `-DNTEST`</i>) and/or exposes `tests` via `lib::test::run()`\*
 
 - #### Performance
 
-  - Applies `compile-time` and `run-time` optimizations
-  - Aims for [fast](https://qlibs.github.io/mp) `compilation-times`
+  - Applies `compile-time`\* and `run-time`\* optimizations
+  - Strives for [fast](https://qlibs.github.io/mp) `compilation-times` (<i>supports C++20 modules\*</i>)
 
 - #### Simplicity
 
-  - Aims for [minimal](https://en.wikipedia.org/wiki/Unix_philosophy) `API`, `dependencies` and `ease of integration`
-  - Supports https://compiler-explorer.com
+  - Strives for [minimal](https://en.wikipedia.org/wiki/Unix_philosophy) `API`, `dependencies` and `ease of integration` (<i>single header/module\*</i>)
+  - Supports experimenting on https://compiler-explorer.com
 
-> Daily [releases](https://github.com/qlibs/qlibs/releases) ([gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*)
+> [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
 
 ---
 
