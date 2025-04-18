@@ -14,7 +14,7 @@
 
 - #### Simplicity
 
-  - Strives for [minimal](https://en.wikipedia.org/wiki/Unix_philosophy) `API`, `dependencies` and `ease of integration` (<i>single header/module\*</i>)
+  - Strives for [minimal](https://en.wikipedia.org/wiki/Unix_philosophy) `API`, `dependencies` and `ease of integration` (<i>single independent header/module\*</i>)
   - Supports experimenting on https://compiler-explorer.com
 
 > [gcc](https://gcc.gnu.org), [clang](https://clang.llvm.org), [msvc](https://visualstudio.microsoft.com/vs/features/cplusplus)\*
