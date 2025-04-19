@@ -5,7 +5,7 @@
 - #### Correctness
 
   - Focuses on `composability`, `declarativeness` and `ease of testing`
-  - Incorporates `compile-time` self-testing upon `include/import` (<i>can be disabled via `-DNTEST`</i>) and/or exposes `runt-time` tests via `lib::test::run()`\*
+  - Incorporates `compile-time` self-testing upon `include/import` (<i>can be disabled via `-DNTEST`</i>) and/or exposes `runt-time` tests via `test::run()`\*
 
 - #### Performance
 
