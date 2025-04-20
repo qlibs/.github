@@ -5,12 +5,12 @@
 - #### Correctness
 
   - Focuses on `composability`, `declarativeness` and `ease of testing` (<i>loosely coupled</i>)
-  - Incorporates `compile-time` self-testing upon `include/import` (<i>can be disabled via `-DNTEST`</i>) and/or exposes `runt-time` tests via `test::run()`\*
+  - Incorporates `compile-time` self-testing upon `include/import` (<i>can be disabled with `-DNTEST`</i>) and/or exposes `runt-time` tests with `test::run()`\*
 
 - #### Performance
 
   - Applies `compile-time`\* and `run-time`\* optimizations
-  - Strives for [fast](https://qlibs.github.io/mp) `compilation-times` (<i>supports C++20 modules</i>)
+  - Strives for [fast](https://qlibs.github.io/mp) `compilation-times` (<i>C++20 modules support</i>)
 
 - #### Simplicity
 
