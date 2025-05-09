@@ -4,13 +4,13 @@
 
 - #### Correctness
 
-  - Focuses on `composability`, `declarativeness` and `ease of testing`
-  - Incorporates `compile-time` self-testing upon `include/import` and/or exposes `runt-time` sanity-checks\*
+  - Focuses on `composability`, `declarativeness` and `testability`
+  - Incorporates `compile-time` self-testing upon `include/import` and/or exposes `runt-time` sanity-checks
 
 - #### Performance
 
-  - Applies `compile-time` and `run-time`\* optimizations
-  - Strives for [fast](https://qlibs.github.io/mp) `compilation-times`
+  - Applies `compile-time` and arch-driven `run-time` optimizations
+  - Uses [fast](https://qlibs.github.io/mp) to `compile` meta-programming techniques
 
 - #### Simplicity
 
