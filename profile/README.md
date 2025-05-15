@@ -5,7 +5,7 @@
 - #### Correctness
 
   - Focuses on `composability`, `declarativeness` and `testability`
-  - Incorporates `compile-time` self-testing upon `include/import` and/or exposes `runt-time` sanity-checks
+  - Incorporates `compile-time` self-testing upon `include/import` and/or exposes `run-time` sanity-checks
 
 - #### Performance
 
