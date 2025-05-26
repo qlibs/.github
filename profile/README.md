@@ -10,7 +10,7 @@
 - #### Performance
 
   - Applies `compile-time` and arch-driven `run-time` optimizations
-  - Utilizes [fast to compile](https://qlibs.github.io/mp) `metaprogramming` techniques
+  - Utilizes [fast to compile](https://qlibs.github.io/mp) `meta-programming` techniques
 
 - #### Simplicity
 
